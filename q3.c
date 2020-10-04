@@ -3,7 +3,7 @@
 struct student {
 
     int STD_ID;
-    char Name[];
+    char Name[20];
     int mark;
 
 }st[2];
